@@ -1,12 +1,10 @@
 <h2 align="left">Hi 👋! My name Kayky</h2>
 
-###
   <div>
      <a href="https://github.com/kaykypraxedes">
      <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=kaykypraxedes&theme=radical&show_icons=true"/>
      <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykypraxedes&layout=compact&theme=radical"/>
   </div>
-###
 
 <div align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNqWGGFQrgghxrhPCKRRbDkcSsvddXGZDrddlKnTCNnzkSLxjljsBmdvqnjHtdpwHxH" target="_blank">
