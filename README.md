@@ -3,8 +3,8 @@
 ###
   <div>
      <a href="https://github.com/kaykypraxedes">
-     <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=Coilsraress&theme=radical&show_icons=true"/>
-     <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coilsraress&layout=compact&theme=radical"/>
+     <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=kaykypraxedes&theme=radical&show_icons=true"/>
+     <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykypraxedes&layout=compact&theme=radical"/>
   </div>
 ###
 
