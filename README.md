@@ -31,6 +31,6 @@
 
 ###
 
-<p align="left">I'm graduating in Computer Engineering at CEFET-MG</p>
+<p align="left">I'm graduating in Computer Engineering at CEFET-MG.</p>
 
 ###
