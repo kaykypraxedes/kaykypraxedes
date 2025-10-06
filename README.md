@@ -22,6 +22,6 @@
 
 ###
 
-<p align="left">Electronic Technician | CEFET MG<br>Computer Engineering | CEFET-MG</p>
+<p align="left">Electronic Technician | CEFET-MG<br>Computer Engineering | CEFET-MG</p>
 
 ###
