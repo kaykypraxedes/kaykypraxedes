@@ -1,12 +1,10 @@
-<h2 align="left">Hi 👋! My name is Kayky!</h2>
+<h2 align="left">Hi 👋! My name Kayky</h2>
 
 ###
 
-  <div>
-     <a href="https://github.com/kaykypraxedes">
-     <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykypraxedes&layout=compact&theme=radical"/>
-     <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=kaykypraxedes&theme=radical&show_icons=true"/>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaykypraxedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -22,6 +20,6 @@
 
 ###
 
-<p align="left">Computer Engineering / CEFET-MG.</p>
+<p align="left">Electronic Technician | CEFET MG<br>Computer Engineering | CEFET-MG</p>
 
 ###
