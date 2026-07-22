@@ -59,6 +59,8 @@ Simulator implementing modern processor execution techniques including Tomasulo'
 - C++
 - Processor Simulation
 
+**Browse folder:** `hardware/C++ - Simulador Processador Tomasulo/`
+
 ---
 
 ## Processor Design
@@ -73,6 +75,8 @@ Implementation of an 8-bit processor developed entirely in Verilog HDL, includin
 - Processor Architecture
 - Hardware Verification
 - Digital Simulation
+
+**Browse folder:** `hardware/Verilog HDL - nRisc monociclo/`
 
 ---
 
