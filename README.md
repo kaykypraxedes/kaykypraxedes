@@ -80,6 +80,33 @@ Implementation of an 8-bit processor developed entirely in Verilog HDL, includin
 
 ---
 
+# Repository Organization
+
+This GitHub is organized by technical area with each project organized by the language.
+
+```text
+hardware/               - Hardware desing and simulation projects
+├── C - Project1/
+├── C++ - Project2/
+...
+
+programming/            - Programming projects of various languages 
+├── C - Project1/
+├── C++ - Project2/
+...
+
+computer-engineering/   - Books of various topics related to computer engineering
+Engenharia-de-computação/
+├── Algorítimos/
+├── Bancos de dados/
+├── Criptografia/
+...
+```
+
+This organization reflects how I structure my studies and projects, making it easier to navigate by subject and implementation language.
+
+---
+
 # Currently Exploring
 
 * Hardware Verification
