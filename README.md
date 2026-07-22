@@ -50,9 +50,7 @@ I enjoy designing systems that operate close to the hardware, from RTL processor
 
 # Featured Projects
 
-## Computer Architecture
-
-### Out-of-Order Multithreaded Processor Simulator (C++)
+## Out-of-Order Multithreaded Processor Simulator (C++)
 
 Simulator implementing modern processor execution techniques including Tomasulo's Algorithm and multithreading (Fine/Coarse-Grained and SMT).
 
@@ -67,9 +65,7 @@ Simulator implementing modern processor execution techniques including Tomasulo'
 
 ---
 
-## Processor Design
-
-### nRISC Processor (Verilog HDL)
+## nRISC Processor (Verilog HDL)
 
 Implementation of an 8-bit processor developed entirely in Verilog HDL, including ALU, Control Unit, Register File and memory modules. The project also includes complete functional verification through dedicated testbenches.
 
@@ -107,26 +103,3 @@ computer-engineering/   - Books of various topics related to computer engineerin
 ```
 
 This organization reflects how I structure my studies and projects, making it easier to navigate by subject and implementation language.
-
----
-
-# Currently Exploring
-
-* Hardware Verification
-* Functional Verification
-* Processor Microarchitecture
-* Memory Systems
-* Cache Coherence Protocols
-* Operating Systems
-* Low-Level Programming
-* Linux Internals
-
----
-
-# Development Tools
-- Version Control (Git)
-- Linux Development Environment
-- Docker
-- Shell Scripting
-- Build Systems (Make, CMake)
-- Debugging (GDB)
