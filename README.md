@@ -42,10 +42,6 @@ I enjoy designing systems that operate close to the hardware, from RTL processor
 - Processes and Threads
 - Memory Management
 
-## Development Tools
-- Git
-- Docker
-
 ---
 
 # Featured Projects
@@ -90,3 +86,13 @@ Implementation of an 8-bit processor developed entirely in Verilog HDL, includin
 * Operating Systems
 * Low-Level Programming
 * Linux Internals
+
+---
+
+# Development Tools
+- Version Control (Git)
+- Linux Development Environment
+- Docker
+- Shell Scripting
+- Build Systems (Make, CMake)
+- Debugging (GDB)
