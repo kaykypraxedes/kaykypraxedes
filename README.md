@@ -100,7 +100,6 @@ programming/            - Programming projects of various languages
 ...
 
 computer-engineering/   - Books of various topics related to computer engineering
-Engenharia-de-computação/
 ├── Algorítimos/
 ├── Bancos de dados/
 ├── Criptografia/
