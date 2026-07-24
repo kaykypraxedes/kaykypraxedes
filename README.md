@@ -61,7 +61,7 @@ Simulator implementing modern processor execution techniques including Tomasulo'
 - C++
 - Processor Simulation
 
-**Browse folder:** `hardware/C++ - Simulador Processador Tomasulo/`
+**Browse folder:** `hardware/C++ - Tomasulo Algorithm Simulator/`
 
 ---
 
@@ -76,7 +76,7 @@ Implementation of an 8-bit processor developed entirely in Verilog HDL, includin
 - Hardware Verification
 - Digital Simulation
 
-**Browse folder:** `hardware/Verilog HDL - nRisc monociclo/`
+**Browse folder:** `hardware/Verilog HDL - 8-bit MIPS nRisc/`
 
 ---
 
@@ -86,19 +86,19 @@ This GitHub is organized by technical area with each project organized by the la
 
 ```text
 hardware/               - Hardware desing and simulation projects
-├── C - Project1/
-├── C++ - Project2/
+├── C - Project_1/
+├── C++ - Project_2/
 ...
 
 programming/            - Programming projects of various languages 
-├── C - Project1/
-├── C++ - Project2/
+├── C - Project_1/
+├── C++ - Project_2/
 ...
 
 computer-engineering/   - Books of various topics related to computer engineering
-├── Algorítimos/
-├── Bancos de dados/
-├── Criptografia/
+├── Algorithms/
+├── Cryptography/
+├── Database/
 ...
 ```
 
