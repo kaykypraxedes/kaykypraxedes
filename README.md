@@ -48,38 +48,6 @@ I enjoy designing systems that operate close to the hardware, from RTL processor
 
 ---
 
-# Featured Projects
-
-## Out-of-Order Multithreaded Processor Simulator (C++)
-
-Simulator implementing modern processor execution techniques including Tomasulo's Algorithm and multithreading (Fine/Coarse-Grained and SMT).
-
-**Topics**
-
-- Computer Architecture
-- Performance Modeling
-- C++
-- Processor Simulation
-
-**Browse folder:** `hardware/C++ - Tomasulo Algorithm Simulator/`
-
----
-
-## nRISC Processor (Verilog HDL)
-
-Implementation of an 8-bit processor developed entirely in Verilog HDL, including ALU, Control Unit, Register File and memory modules. The project also includes complete functional verification through dedicated testbenches.
-
-**Topics**
-
-- RTL Design
-- Processor Architecture
-- Hardware Verification
-- Digital Simulation
-
-**Browse folder:** `hardware/Verilog HDL - 8-bit MIPS nRisc/`
-
----
-
 # Repository Organization
 
 This GitHub is organized by technical area with each project organized by the language.
