@@ -31,31 +31,30 @@ I enjoy designing systems that operate close to the hardware, from RTL processor
 
 ---
 
-# Areas of Interest
+# Core Interests
 
 ## Hardware
-- **Computer Architecture:** Study and implementation of processor architectures, pipelines, memory hierarchies, instruction-level parallelism, and architectural trade-offs.
-- **RTL Design:** Development of digital systems and processor components in Verilog, from datapath and control logic to complete processor implementations.
-- **Digital Logic:** Design and analysis of combinational and sequential circuits, finite-state machines, registers, datapaths, and control units.
-- **Hardware Verification:** Functional verification of RTL designs through simulation, testbenches, assertions, and formal verification concepts.
-- **Processor Design:** Design and implementation of processor datapaths, control units, instruction sets, pipelines, and execution mechanisms.
-- **Performance Modeling:** Analysis and simulation of processor behavior, including pipeline hazards, branch prediction, out-of-order execution, and architectural performance.
-- **High-Performance Computing:** Interest in parallel architectures, hardware acceleration, multithreading, and techniques for improving computational throughput.
+- **Computer Architecture:** Processor architectures, pipelines, memory hierarchies, instruction-level, architectural trade-offs.
+- **RTL Design:** Digital systems, Verilog HDL, datapath, control logic.
+- **Digital Logic:** Sequential circuits, finite-state machines, registers, control units.
+- **Hardware Verification:** Functional and formal verification, simulation, testbenches, assertions.
+- **Performance Modeling:** Pipeline hazards, branch prediction, out-of-order execution, architectural performance.
+- **High-Performance Computing:** Parallel architectures, hardware acceleration, multithreading.
 
 ## Operating Systems
-- **Linux:** Daily use and study of Linux environments, system configuration, troubleshooting, automation, and low-level system behavior.
-- **POSIX:** Understanding of Unix/POSIX interfaces and concepts involving processes, files, signals, permissions, and inter-process communication.
-- **Shell Scripting:** Development of Bash scripts for system automation, environment configuration, file manipulation, and command-line workflows.
-- **Processes and Threads:** Study of process creation, scheduling, synchronization, concurrency, context switching, and inter-process communication.
-- **Memory Management:** Understanding of virtual memory, address spaces, paging, memory allocation, protection, and operating-system memory management.
+- **Linux:** System configuration, troubleshooting, automation, low-level system behavior.
+- **POSIX:** Unix/POSIX interfaces, processes, files, signals, permissions, inter-process communication.
+- **Shell Scripting:** Scripts for system automation, environment configuration, file manipulation, command-line workflows.
+- **Processes and Threads:** Process creation, scheduling, synchronization, concurrency, context switching, inter-process communication.
+- **Memory Management:** Virtual memory, address spaces, paging, memory allocation, protection, operating-system memory management.
 
 ## Electronics and Embedded Systems
-- **Circuits:** Analysis and design of analog and digital electronic circuits involving passive components, transistors, amplifiers, and logic devices.
-- **PCBs:** Understanding of electronic board architecture, component identification, circuit organization, troubleshooting, and hardware maintenance.
-- **Microcontrollers and Microprocessors:** Study and programming of processor-based systems, peripherals, memory-mapped I/O, interrupts, and hardware interfaces.
-- **Embedded Programming:** Development of low-level software in C/C++ involving hardware control, peripherals, drivers, and resource-constrained systems.
-- **Analog and Digital Data Transmission:** Understanding of physical-layer communication concepts, signal transmission, encoding, bandwidth, noise, and transmission media.
-- **Signal Modulation:** Study of analog modulation techniques such as AM and FM and their application to communication systems.
+- **Circuits:** Analog and digital electronic circuits, transistors, amplifiers, logic devices.
+- **PCBs:** Electronic board architecture, component identification, circuit organization, troubleshooting, hardware maintenance.
+- **Microcontrollers and Microprocessors:** Programming of processor-based systems, peripherals, memory-mapped I/O, interrupts, hardware interfaces.
+- **Embedded Programming:** Low-level software in C/C++, hardware control, peripherals, drivers, resource-constrained systems.
+- **Analog and Digital Data Transmission:** Physical-layer communication concepts, signal transmission, encoding, bandwidth, noise, transmission media.
+- **Signal Modulation:** Analog and digital modulation techniques such as AM, FM, PWM, PCM and QAM.
 
 ---
 
@@ -73,13 +72,13 @@ technical-area/
 
 This organization reflects how I structure my studies and projects, making it easier to navigate by subject and implementation language.
 
-# Secondary Knowledge
+# Side Quests
 
 ## Software Engineering and Auxiliary Tools
-- **Agile Methodologies:** Knowledge of agile frameworks, technical planning, project organization, and software engineering best practices.
-- **DevOps and Version Control:** Familiarity with the development ecosystem using Git, GitHub, and containerization environments with Docker.
-- **Information Security:** Mathematical and practical foundations in Cryptography, including the implementation of RSA algorithms, Elliptic Curves (ECC), Hashing, digital signatures, and post-quantum cryptography concepts.
-- **Additional Programming Languages:** Experience in developing solutions using Java (Object-Oriented Programming), C#, and Zig.
+- **Agile Methodologies:** Agile frameworks, technical planning, project organization, software engineering best practices.
+- **DevOps and Version Control:** Development ecosystem using Git, GitHub, containerization environments with Docker.
+- **Information Security:** Mathematical foundations in Cryptography, RSA algorithms, Elliptic Curves (ECC), Hashing, digital signatures, post-quantum cryptography concepts.
+- **Additional Programming Languages:** Java, C#, Zig.
 
 ## Academic Production and Technical Documentation
 - **Scientific Document Preparation:** Proficiency in LaTeX for writing, formatting, and producing academic articles, reports, and documents.
